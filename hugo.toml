@@ -4,3 +4,6 @@ title = 'My New Hugo Site'
 theme = 'mytheme'
 
 disableKinds = ["taxonomy"]
+
+[markup.goldmark.renderer]
+    unsafe = true
