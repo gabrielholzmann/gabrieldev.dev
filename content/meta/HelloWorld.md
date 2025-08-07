@@ -1,6 +1,6 @@
 +++
 date = '2025-08-07T14:04:27-03:00'
-draft = true
+draft = false
 title = 'Hello World!'
 tags = ["meta", "ramblings"]
 quickSummary = "std::cout << \"Hello, World!\";"
