@@ -1,6 +1,6 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://gabrieldev.dev/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'gabrieldev'
 theme = 'mytheme'
 
 disableKinds = ["taxonomy"]
